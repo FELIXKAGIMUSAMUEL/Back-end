@@ -52,3 +52,4 @@ function checkdetails(req, res, next) {
     }
 
 }
+ 

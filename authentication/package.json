@@ -11,7 +11,7 @@
   "author": "KAGIMU FELIX SAMUEL, AHEREZA MOLIAN, KAHUNDE QUEEN ANITA, NANKUNDA NATALIE BYENGOMA, TAYEBWA RICKIE",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.2",
+    "body-parser": "^1.20.2", 
     "build": "^0.1.4",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^5.1.0",

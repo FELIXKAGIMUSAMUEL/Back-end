@@ -15,4 +15,4 @@ const userSchema = new mongoose.Schema({
 
 const User = connection.model('Users',userSchema);
 
-module.exports=connection;
+module.exports=connection; 

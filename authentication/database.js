@@ -5,7 +5,7 @@ const conn = 'mongodb+srv://ISM_Group:ismgroup@hostels.1wmoi4e.mongodb.net/?retr
 const connection = mongoose.createConnection(conn, {
     useNewUrlParser: true,
     useUnifiedTopology: true
-});
+}); 
 
 
 
